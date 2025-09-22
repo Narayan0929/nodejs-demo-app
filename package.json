@@ -7,9 +7,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
+  ""scripts": {
   "start": "node index.js",
-  "dev": "nodemon index.js"
+  "test": "node test.js"
 },
   "keywords": [],
   "author": "",
