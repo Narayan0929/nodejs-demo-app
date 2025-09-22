@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "express": "^5.1.0",
+    "xlsx": "^0.18.5"
+  },
+  "name": "91843",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "start": "node index.js",
+  "dev": "nodemon index.js"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
